@@ -6,3 +6,5 @@ Tools used in the project:
 - JAVA
 - XML
 
+![](https://github.com/AyoubHmd-Dev/Calculatrice/blob/master/Capture.PNG)
+
