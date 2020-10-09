@@ -2,6 +2,7 @@
 My first android application.
 
 Tools used in the project:
-- A ndroid studio (IDE)
+- Android studio (IDE)
 - JAVA
 - XML
+
