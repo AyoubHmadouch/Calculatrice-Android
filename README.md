@@ -1,11 +1,16 @@
-# Calculatrice
-My first android application.
+## **Calculatrice Android**
 
-Tools used in the project:
-- Android studio (IDE)
-- JAVA
-- XML
+```
+My first android application .It is a sample calculatrice with the basics operations:
+```
+### ***Tools used in the project:***
+```
+* Android studio (IDE)
+* JAVA (for logic)
+* XML (for vues)
+```
+### ***Screenshot***
+![](screen2.PNG)
+![](screen1.PNG)
 
-
-![](https://github.com/AyoubHmd-Dev/Calculatrice/blob/master/Capture.PNG)
 
