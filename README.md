@@ -10,7 +10,7 @@ My first android application .It is a sample calculatrice with the basics operat
 * XML (for vues)
 ```
 ### ***Screenshot***
-![](screen2.PNG)
-![](screen1.PNG)
+![1](screen2.PNG) ![2](screen1.PNG)
+
 
 
